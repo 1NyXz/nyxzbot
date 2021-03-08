@@ -73,8 +73,8 @@ clear
 sleep 2
 echo "          $merah   instalando o segundo login"
 sleep 2
-git clone https://github.com/1NyXz/nyxzbot.git
-cd nyxzbot
+git clone https://github.com/1NyXz/andreibot.git
+cd andreibot
 chmod +x git.sh
 echo "$verde"
 echo "Agora tem 2 etapas de senhas...."
